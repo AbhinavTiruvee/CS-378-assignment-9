@@ -41,15 +41,13 @@ def main(filename):
         # You can send the JSON text object spark and parse it in your Spark program.
         #    conn.send(line)
         
-           msg = json.loads(line)
         
            
            # This is a large JSON object for tweet
            # print(msg)
 
            # as an example we send here just the tweet text. 
-           tweet_text = msg['text'].encode('utf-8')
-           conn.send(tweet_text)
+           conn.send(line.encode("utf-8"))
            
            if(counter % 100 == 0):
                print(counter)
