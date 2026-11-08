@@ -1,0 +1,135 @@
+Time: 2026-11-07 22:20:35
+fever: 0
+ache: 0
+pain: 0
+sick: 5
+Time: 2026-11-07 22:20:40
+fever: 0
+ache: 0
+pain: 8
+sick: 14
+Time: 2026-11-07 22:20:45
+fever: 0
+ache: 0
+pain: 18
+sick: 22
+Time: 2026-11-07 22:20:50
+fever: 0
+ache: 0
+pain: 18
+sick: 23
+Time: 2026-11-07 22:20:55
+fever: 2
+ache: 0
+pain: 14
+sick: 20
+Time: 2026-11-07 22:21:00
+fever: 3
+ache: 0
+pain: 14
+sick: 21
+Time: 2026-11-07 22:21:05
+fever: 2
+ache: 0
+pain: 16
+sick: 14
+Time: 2026-11-07 22:21:10
+fever: 3
+ache: 0
+pain: 14
+sick: 11
+Time: 2026-11-07 22:21:15
+fever: 2
+ache: 0
+pain: 10
+sick: 17
+Time: 2026-11-07 22:21:20
+fever: 1
+ache: 0
+pain: 11
+sick: 17
+Time: 2026-11-07 22:21:25
+fever: 2
+ache: 1
+pain: 12
+sick: 17
+Time: 2026-11-07 22:21:30
+fever: 1
+ache: 1
+pain: 9
+sick: 18
+Time: 2026-11-07 22:21:35
+fever: 0
+ache: 0
+pain: 9
+sick: 15
+Time: 2026-11-07 22:21:40
+fever: 1
+ache: 1
+pain: 9
+sick: 19
+Time: 2026-11-07 22:21:45
+fever: 2
+ache: 1
+pain: 10
+sick: 20
+Time: 2026-11-07 22:21:50
+fever: 2
+ache: 0
+pain: 12
+sick: 16
+Time: 2026-11-07 22:21:55
+fever: 2
+ache: 0
+pain: 13
+sick: 21
+Time: 2026-11-07 22:22:00
+fever: 1
+ache: 0
+pain: 18
+sick: 26
+Time: 2026-11-07 22:22:05
+fever: 0
+ache: 0
+pain: 18
+sick: 20
+Time: 2026-11-07 22:22:10
+fever: 0
+ache: 1
+pain: 20
+sick: 9
+Time: 2026-11-07 22:22:15
+fever: 2
+ache: 1
+pain: 18
+sick: 10
+Time: 2026-11-07 22:22:20
+fever: 2
+ache: 0
+pain: 11
+sick: 13
+Time: 2026-11-07 22:22:25
+fever: 1
+ache: 0
+pain: 11
+sick: 18
+Time: 2026-11-07 22:22:30
+fever: 1
+ache: 0
+pain: 13
+sick: 26
+Time: 2026-11-07 22:22:35
+fever: 2
+ache: 1
+pain: 12
+sick: 20
+Time: 2026-11-07 22:22:40
+fever: 2
+ache: 1
+pain: 4
+sick: 6
+Time: 2026-11-07 22:22:45
+fever: 0
+ache: 0
+pain: 0
+sick: 0

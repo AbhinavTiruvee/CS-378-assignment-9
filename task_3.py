@@ -44,8 +44,8 @@ def results(batch_time, rdd):
     last_5.append(to_print)
     
     #save last 5 blocks to text file
-    with open("task3_output.txt", "w", encoding="utf-8") as file:
-        file.write("\n".join(last_5) + "\n")
+    with open("task_3_output.txt", "a", encoding="utf-8") as file:
+        file.write(to_print + "\n")
 # create spark configuration
 conf = SparkConf()
 conf.setAppName("Task 3")

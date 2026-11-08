@@ -56,7 +56,7 @@ def results(batch_time, rdd):
     last_5.append(to_print)
     
     #save last 5 blocks to text file
-    with open("task2_output.txt", "w", encoding="utf-8") as file:
+    with open("task_2_output.txt", "w", encoding="utf-8") as file:
         file.write("\n".join(last_5) + "\n")
 # create spark configuration
 conf = SparkConf()
